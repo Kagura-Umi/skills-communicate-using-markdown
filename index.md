@@ -11,3 +11,5 @@ int main()
   return 0;
 }
 ```
+- [ ] Task 1
+- [x] Task 2
